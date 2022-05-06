@@ -1,0 +1,31 @@
+body{
+    font-family: "Boogaloo";
+    background-color: #41bbd9;
+    margin: 1rem;
+    padding: 1rem;
+    margin: 2rem auto;
+    }
+
+    nav {
+        border-bottom: 2px solid white;
+        
+        
+    }
+
+    .crumb {
+        margin-right: 2em;
+        padding: .5rem;
+        display: inline;
+        background-color: #E4FDE1;
+        font-size: large;
+        color:black;
+        border-radius: 10px;
+    }
+
+    /* .div{
+        align: center;
+    } */
+
+   
+
+    
